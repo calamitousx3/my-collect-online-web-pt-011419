@@ -10,4 +10,4 @@ def my_collect(array)
   collection
 end 
 
-my_collect(array) {|i| i.split(" ").first}
+my_collect(students) {|i| i.split(" ").first}
