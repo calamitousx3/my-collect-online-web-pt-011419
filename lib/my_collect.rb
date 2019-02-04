@@ -9,5 +9,5 @@ def my_collect(array)
   end 
   collection
 end 
-
+end
 my_collect(students) {|i| i.split(" ").first}
